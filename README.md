@@ -1,2 +1,7 @@
 # Marco_Teorico_Indioyori
-Vamos a revisar mi marco teórico para construir rutas de investigación y temas para mi blog
+
+Corpus teórico de Dolores Méndez Valdez / FronterIA-Lab para construir rutas de investigación y temas de blog.
+
+## Agenda editorial
+
+Ver **[TEMAS_PRIORITARIOS_BLOG_INVESTIGACION.md](./TEMAS_PRIORITARIOS_BLOG_INVESTIGACION.md)**: lista priorizada de 20 temas que cruzan el marco (soberanía cognitiva, MCC, TEKTRON, grieta generativa, neuroderechos, olvido estructural) con la coyuntura de IA de agosto 2026.
