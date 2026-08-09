@@ -35,11 +35,12 @@
 
 ### Bloque A — Urgencia editorial (publicar primero)
 
-#### 1. Soberanía declarada vs. soberanía operativa
+#### 1. Soberanía declarada vs. soberanía operativa ✅ redactado
 **Ancla del marco:** colonialidad del dato + TEKTRON  
 **Gancho actual:** “IA soberana” en AL + colonialismo de la nube  
 **Ángulo:** Distinguir política de branding digital de capacidad real de auditar, alojar, actualizar y apagar sistemas.  
-**Pregunta guía:** ¿Quién tiene la llave del apagado — el Estado, la comunidad o el contrato AWS/Azure/GCP?
+**Pregunta guía:** ¿Quién tiene la llave del apagado — el Estado, la comunidad o el contrato AWS/Azure/GCP?  
+**Borrador:** [`blog/01-soberania-declarada-vs-operativa.md`](./blog/01-soberania-declarada-vs-operativa.md)
 
 #### 2. Data centers en Querétaro como extractivismo 3.0 territorial
 **Ancla:** extractivismo mental + dimensión material (agua/energía/territorio)  
