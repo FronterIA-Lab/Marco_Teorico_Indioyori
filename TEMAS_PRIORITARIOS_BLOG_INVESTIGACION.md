@@ -48,6 +48,12 @@
 **Ángulo:** La “nube” no es etérea; es acuífero, red eléctrica y despojo local al servicio de cómputo ajeno.  
 **Entrega sugerida:** crónica-ensayo + mapa de costos materiales vs. narrativa de “modernización”.
 
+#### 2b. Dónde está la extracción en la cadena de la IA ✅ redactado
+**Ancla:** extractivismo mental 3.0 + maquila cognitiva + olvido estructural  
+**Gancho:** moralina “no uses IA porque contamina” vs. escala industrial (mina/data center)  
+**Ángulo:** Mapear siete momentos de extracción; rechazar la culpa del usuario final sin absolver el uso acrítico; la extracción más peligrosa es cognitiva.  
+**Borrador:** [`blog/02-donde-esta-la-extraccion-en-la-ia.md`](./blog/02-donde-esta-la-extraccion-en-la-ia.md)
+
 #### 3. AI Act: transparencia sin descolonización
 **Ancla:** olvido estructural + certeza sin sustancia  
 **Gancho:** Art. 50 + enforcement GPAI  
