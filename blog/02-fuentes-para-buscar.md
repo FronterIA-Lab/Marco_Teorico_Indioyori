@@ -1,144 +1,154 @@
 # Fuentes para buscar — monólogo “dónde está la extracción”
 
-Lista para pegar en comentarios, stories o descripción. Ordenadas por tramo del argumento.  
-**Nota:** la cifra exacta de “X litros por gramo de oro” varía brutalmente según ley del mineral, planta y si cuentas agua azul/gris. Lo que sí sostiene la analogía es la **escala industrial vs. el grifo doméstico**. Abajo van fuentes con rangos reales.
+**Primero van los papers del marco (Dolores Méndez Valdez / FronterIA-Lab).**  
+Después, fuentes externas para quien quiera verificar cifras y coyuntura.
 
 ---
 
-## 1. Agua y minería de oro (la analogía del baño)
+## 0. Tus papers (base del argumento)
 
-Buscar:
-- Skarn Associates — *Gold Water Benchmarking* (2024): ~21 m³ de agua por onza de oro en 2022 (industria cubierta).  
+### Para el núcleo del monólogo (léelos / cítalos sí o sí)
+
+| Tramo del monólogo | Paper | DOI / búsqueda |
+|---|---|---|
+| Extractivismo mental 3.0; Edge vs nube; no basta abstenerse | *IA de Borde como Insurgencia Epistemológica: Hacia una Cibernética del Tonalli en la Industria 4.0* | https://doi.org/10.5281/zenodo.18492978 |
+| Misma línea + corrección MCC | *TEKTRON IA de Borde como Insurgencia Epistemológica* (v2) | https://doi.org/10.5281/zenodo.18655577 |
+| Uso con criterio / no entregar el juicio | *El Método de Calibración Contextual (MCC)…* | https://doi.org/10.5281/zenodo.17728015 |
+| Extracción mental, atención, “no es usarla para todo” | *MANUAL PARA LA SOBERANÍA COGNITIVA* | https://doi.org/10.5281/zenodo.17705442 |
+| Neuroderechos + inoptimizabilidad + mente como territorio | *SOBERANÍA COGNITIVA Y NEURODERECHOS* | (repo + Zenodo; buscar título + Méndez Valdez) |
+| Sur como maquila cognitiva / sujeto no contemplado | *La Grieta Generativa* | buscar: `Grieta Generativa Méndez Valdez` |
+| Arquitectura que borra saberes / certeza falsa | *Certeza sin sustancia*; *La Colonización de la Gramática y el Olvido Estructural* | buscar título + FronterIA-Lab |
+| Ontología / reciprocidad / silicio situado | *Código Fuente del Sexto Sol: Cibernética del Tonalli…* | Enero 2026 |
+| Infraestructura concreta | *TEKTRON Border IA* / TEKTRON v4.0 | https://doi.org/10.5281/zenodo.20404028 |
+
+### Resto del corpus (anclaje amplio)
+
+- *La ofensiva del nombre Anáhuac…* (15 feb 2026)
+- *LA GEOMETRÍA DEL DESPOJO…*
+- *El fetiche y la herida…*
+- *Indio Yori – Teroyokori – Negro…* (.pages)
+
+**Búsqueda rápida en Zenodo:**  
+`Méndez Valdez FronterIA` · `TEKTRON Border IA` · `soberanía cognitiva MCC`
+
+---
+
+## Bloque listo para comentario (con TUS papers primero)
+
+```
+Fuentes (empieza por el marco):
+
+🧠 Méndez Valdez / FronterIA-Lab
+• MANUAL PARA LA SOBERANÍA COGNITIVA — doi.org/10.5281/zenodo.17705442
+• Método de Calibración Contextual (MCC) — doi.org/10.5281/zenodo.17728015
+• IA de Borde / Cibernética del Tonalli — doi.org/10.5281/zenodo.18492978
+• TEKTRON Border IA — doi.org/10.5281/zenodo.18655577
+• También: La Grieta Generativa; Certeza sin sustancia; Olvido Estructural; Soberanía Cognitiva y Neuroderechos
+
+Para verificar coyuntura:
+💧 Skarn Gold Water Benchmarking · MDPI water footprint gold
+🏭 Infobae/WIRED/El Clip — data centers Querétaro
+💦 Li et al. “Making AI Less Thirsty” (arXiv 2304.03271)
+👷 TIME Billy Perrigo — maquila cognitiva Kenia
+📚 Stochastic Parrots (Bender et al.)
+
+La culpa del prompt tapa la mina.
+La extracción más peligrosa está en la mente.
+```
+
+---
+
+## 1. Agua y minería de oro (analogía del baño)
+
+- Skarn Associates — *Gold Water Benchmarking* (2024)  
   https://www.skarnassociates.com/insights/gold-water-benchmarking
-- MDPI — *Water Footprint Assessment of Carbon in Pulp Gold Processing* (Turquía): huella azul ~452 m³/kg Au (+ gris mucho mayor).  
+- MDPI — *Water Footprint Assessment of Carbon in Pulp Gold Processing*  
   https://www.mdpi.com/2071-1050/13/15/8497
-- IWRA — huella hídrica en beneficio de oro a pequeña escala (Vetas, Santander, Colombia).  
-  Buscar: `Pardavé gold mine Vetas water footprint`
 
-**Cómo decirlo sin que te tumben el número:**  
-“La minería de oro consume agua a escala industrial; el sermón del baño de 5 minutos tapa esa asimetría.”
+**Cómo decirlo:** la minería opera a escala industrial; el sermón del baño de 5 minutos tapa esa asimetría.  
+*(Si usas “90 mil litros/gramo”, trátarlo como figura retórica; los promedios globales varían por ley del mineral y tipo de huella.)*
 
 ---
 
 ## 2. Agua / energía de entrenar IA y data centers
 
-Buscar:
-- Li, Yang et al. — *Making AI Less “Thirsty”* (arXiv): entrenar GPT-3 ≈ **5.4 millones de litros**; inferencia ≈ 500 ml cada 10–50 respuestas.  
+- Li et al. — *Making AI Less “Thirsty”*  
   https://arxiv.org/abs/2304.03271  
-  https://arxiv.org/html/2304.03271
-- Strubell, Ganesh, McCallum — *Energy and Policy Considerations for Deep Learning in NLP* (ACL 2019). Clásico de costo energético del entrenamiento.
-- Luccioni et al. — huella de carbono de BLOOM / modelos abiertos (Hugging Face / academic).
-- IEA — reportes de consumo eléctrico de data centers (buscar `IEA data centres electricity`).
+  (GPT-3 ≈ 5.4 millones de litros en entrenamiento; inferencia mucho menor por consulta)
+- Strubell, Ganesh, McCallum — *Energy and Policy Considerations for Deep Learning in NLP* (ACL 2019)
+- IEA — consumo eléctrico de data centers
+
+**Puente a tu marco:** el costo masivo está en hiperescala/entrenamiento; tu tesis añade que aun “optimizando” eso, queda el extractivismo mental (*Manual*, *IA de Borde*).
 
 ---
 
-## 3. Querétaro / México: data centers y acuíferos
+## 3. Querétaro / México
 
-Buscar:
-- Infobae (1 ago 2026) — colectivos: data centers agravan crisis de agua en Querétaro.  
+- Infobae (1 ago 2026) — data centers y crisis de agua  
   https://www.infobae.com/mexico/2026/08/01/centros-de-datos-agravan-crisis-de-agua-en-queretaro-acusan-colectivos/
-- Expansión (27 may 2026) — data centers vs. estrés hídrico en Querétaro.  
+- Expansión (27 may 2026)  
   https://expansion.mx/tecnologia/2026/05/27/data-centers-en-queretaro-chocan-con-el-estres-hidrico
-- WIRED ES — *Querétaro y los centros de datos: el alto costo hídrico y social…*  
+- WIRED ES — costo hídrico y social de Querétaro  
   https://es.wired.com/articulos/queretaro-y-los-centros-de-datos-el-alto-costo-hidrico-y-social-del-paraiso-tecnologico-de-mexico
-- El Clip — *La tierra prometida de los centros de datos*.  
+- El Clip — *La tierra prometida de los centros de datos*  
   https://www.elclip.org/la-tierra-prometida-de-los-centros-de-datos/
-- Colectivo / consignas: `UEMAS Querétaro data centers`, `No es sequía es saqueo`
 
 ---
 
-## 4. Datos robados / corpus como despojo
+## 4. Datos / corpus como despojo
 
-Buscar:
-- New York Times v. OpenAI / Microsoft (demanda por uso de obras en entrenamiento).
-- *The Atlantic* / *Books3* — dataset con libros piratas usados en entrenamiento.
-- Bender, Gebru, McMillan-Major, Shmitchell — *On the Dangers of Stochastic Parrots* (FAccT 2021).
-- Buscar: `AI training data scraping copyright lawsuit`
+- Bender et al. — *On the Dangers of Stochastic Parrots* (FAccT 2021)
+- NYT v. OpenAI / Microsoft; dataset Books3  
+- **Tu marco:** *Olvido Estructural*, *Colonización de la Gramática*, *Grieta Generativa*
 
 ---
 
-## 5. Maquila cognitiva (etiquetado / moderación en el Sur)
+## 5. Maquila cognitiva
 
-Buscar:
-- TIME — Billy Perrigo: trabajadores en Kenia a ~$1.32–$2/h etiquetando contenido tóxico para OpenAI/ChatGPT.  
+- TIME — Billy Perrigo (Kenia, ~$1.32–$2/h para OpenAI)  
   https://time.com/6247678/openai-chatgpt-kenya-workers/
-- The Guardian (2023) — *Kenyan moderators decry toll of training AI models*.  
-  https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai
-- Gray & Suri — *Ghost Work* (libro sobre trabajo invisible detrás de la IA).
-- Buscar: `data labeling Global South AI`, `Sama OpenAI Kenya`
+- The Guardian (2023) — moderadores kenianos  
+- Gray & Suri — *Ghost Work*
+- **Tu marco:** *La Grieta Generativa* (división colonial del trabajo cognitivo / maquila cognitiva)
 
 ---
 
-## 6. Arquitectura que borra otras formas de pensar / lenguas
+## 6. Arquitectura que borra otras formas de pensar
 
-Buscar:
-- Vaswani et al. — *Attention Is All You Need* (2017) — base técnica del transformer.
-- Petrou-Zeniou / trabajos sobre desigualdad de tokenización (BPE y lenguas).  
-  Buscar: `tokenization inequality multilingual NLP`, `BPE tax non-English`
-- Quijano — *Colonialidad del poder* (2000).
-- Castro-Gómez — *La hybris del punto cero*.
-- Mignolo — colonialidad del saber / epistemologías del Sur.
-- En el marco propio: *Olvido estructural*, *Certeza sin sustancia*, *Colonización de la gramática* (FronterIA-Lab / Méndez Valdez).
+- Vaswani et al. — *Attention Is All You Need* (2017)
+- Buscar: `tokenization inequality multilingual NLP`, `BPE tax non-English`
+- Quijano — colonialidad del poder; Castro-Gómez — hybris del punto cero
+- **Tu marco:** *Certeza sin sustancia*; *Olvido Estructural*; *Código Fuente del Sexto Sol*
 
 ---
 
-## 7. Extracción mental / atención / psicopolítica
+## 7. Extracción mental
 
-Buscar:
-- Byung-Chul Han — *Psicopolítica*.
-- Zuboff — *The Age of Surveillance Capitalism* (captura de comportamiento; útil aunque no sea “IA generativa”).
-- Carr — *The Shallows* (atención y lectura profunda).
-- Yuste et al. / neuroderechos (Chile, Ley 21.383).
-- Stanford Law (2026) — neurorights y *inferred mental data*.  
-  Buscar: `Chile neurorights inferred mental data Stanford`
-- Marco propio: *Manual para la Soberanía Cognitiva*, *Soberanía Cognitiva y Neuroderechos*, *Extractivismo mental 3.0*.
+- Byung-Chul Han — *Psicopolítica* (diálogo, no sustituto)
+- Neuroderechos Chile — Ley 21.383; debate *inferred mental data*
+- **Tu marco (prioridad):**  
+  - *MANUAL PARA LA SOBERANÍA COGNITIVA*  
+  - *SOBERANÍA COGNITIVA Y NEURODERECHOS* (Sexto Neuroderecho / inoptimizabilidad)  
+  - *MCC*  
+  - *Extractivismo mental 3.0* en *IA de Borde* / TEKTRON
 
 ---
 
-## 8. Soberanía digital / “IA soberana” vs. dependencia de nube
+## 8. “IA soberana” vs. dependencia de nube
 
-Buscar:
-- Infobae (3 ago 2026) — soberanía digital en América Latina.  
+- Infobae (3 ago 2026) — soberanía digital en AL  
   https://www.infobae.com/america/inhouse/2026/08/03/la-inteligencia-artificial-avanza-en-america-latina-pero-la-region-enfrenta-un-nuevo-desafio-la-soberania-digital/
-- WIRED ES — regulación de IA en América Latina.  
-  https://es.wired.com/articulos/america-latina-busca-su-propio-camino-en-la-regulacion-de-la-ia
-- Concordia Política — *IA soberana y colonialismo de la nube en América Latina*.  
+- Concordia Política — colonialismo de la nube  
   https://concordiapolitica.com/ia-soberana-colonialismo-nube-al/
-- EL PAÍS (jun 2026) — Francia y Alemania, soberanía europea en IA.
-- EU AI Act — enforcement 2 ago 2026 (Art. 50, GPAI).  
-  Buscar: `EU AI Act 2 August 2026 Article 50`
+- **Tu marco:** post 01 del blog + TEKTRON / *IA de Borde* (soberanía operativa: pesos, apagado, borde)
 
 ---
 
-## 9. Chips / minerales / cadena material
+## Mapa express: monólogo → paper tuyo
 
-Buscar:
-- IEA / OECD — critical minerals for clean energy & digital (litio, cobalto, tierras raras).
-- Amnesty / investigaciones sobre cobalto en RDC.
-- Buscar: `semiconductor water use fabrication`, `GPU mining rare earths AI`
-
----
-
-## Bloque listo para comentario de Instagram / TikTok
-
-```
-Fuentes para buscar (no te quedes en el reel):
-
-💧 Minería y agua: Skarn “Gold Water Benchmarking”; MDPI water footprint CIP gold
-🏭 Data centers Querétaro: Infobae 01/08/2026; WIRED ES Querétaro data centers; El Clip
-💦 Huella hídrica IA: Li et al. “Making AI Less Thirsty” (arXiv 2304.03271) — entrenar GPT-3 ≈ 5.4M litros
-👷 Maquila cognitiva: TIME Billy Perrigo — trabajadores Kenia ~$2/h para OpenAI
-📚 Datos/corpus: Stochastic Parrots (Bender et al.); demandas NYT vs OpenAI; Books3
-🧠 Extracción mental: Byung-Chul Han Psicopolítica; neuroderechos Chile; Manual Soberanía Cognitiva (FronterIA-Lab)
-🌎 Soberanía vs nube: Infobae soberanía digital AL (ago 2026); “colonialismo de la nube”
-
-La culpa del prompt tapa la mina.
-```
-
----
-
-## Advertencia rápida para ti (autora)
-
-Si en el audio dices “90 mil litros por gramo”, ten a mano que es **figura retórica / cifra circulante**, no un promedio global único. En comentarios conviene pivotar a:  
-“La industria consume agua a escala de metros cúbicos por onza/kg de oro; el grifo doméstico no es el nudo del saqueo.”  
-Así no te desautorizan el argumento por un número.
+1. “No uses IA, contamina” = culpa del grifo → *Manual* + *IA de Borde* (quién diseña la escala del saqueo)  
+2. Mina / data center / datos / maquila → *Grieta Generativa* + coyuntura externa  
+3. Arquitectura que borra formas de pensar → *Olvido Estructural* + *Certeza sin sustancia*  
+4. Extracción de la mente → *Manual* + *Neuroderechos* + extractivismo mental 3.0  
+5. “Si no aprendemos a usarla…” → *MCC* + TEKTRON (capacidad propia, no abstinencia decorativa)  
+6. Cierre territorial/mental → tu eslogan + *IA de Borde* / *Soberanía Cognitiva*
