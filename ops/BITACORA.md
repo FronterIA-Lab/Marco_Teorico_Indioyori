@@ -1,8 +1,9 @@
 # Bitácora FronterIA-Lab — dónde nos quedamos
 
-**Última actualización:** 10 agosto 2026  
+**Última actualización:** 10 agosto 2026 (noche / “ya es mañana” operativo)  
 **Autora / lab:** Dolores Méndez Valdez (Indioyori) / FronterIA-Lab  
-**Contacto lab:** fronteria-lab@proton.me  
+**Correo principal outreach:** indioyori@fronteria-lab.com  
+**Correo infra RAG:** ragflow@fronteria-lab.com  
 **Rama de trabajo reciente:** `cursor/fichas-macs-ipa-senado-0bea`
 
 ---
