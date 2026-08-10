@@ -3,7 +3,7 @@
 **Nombre completo:** Protocolo de Instrucción Anticolonial  
 **Sigla:** IPA  
 **Autoría:** Dolores Méndez Valdez / FronterIA-Lab  
-**Estado:** ficha operativa (reconstrucción a partir de formulación original del protocolo)  
+**Estado:** ficha resumida. **Instrumento completo:** [`IPA_INSTRUMENTO_v1.0.md`](./IPA_INSTRUMENTO_v1.0.md) (fábrica, cláusulas I1–I8, blindaje E1–E6, batería anti-menú).  
 **Relación:** tecnología / protocolo de *instrucción*. No sustituye al MACS ni al MCC.
 
 ---

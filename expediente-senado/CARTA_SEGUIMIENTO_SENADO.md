@@ -47,7 +47,7 @@ Mantengo la lógica del apartado IV del documento original: el marco teórico si
 Adjunto:
 
 - Ficha MACS v0.1 + Instrumento MACS v1.0 (rúbrica de 16 ítems)  
-- Ficha IPA v0.1  
+- Ficha IPA v0.1 + Instrumento IPA v1.0 (protocolo de instrucción, fábrica y blindaje de escala)  
 
 Quedo atenta a la fecha que su oficina proponga.
 
