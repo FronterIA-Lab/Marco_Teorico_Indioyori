@@ -4,7 +4,7 @@
 **Autora / lab:** Dolores Méndez Valdez (Indioyori) / FronterIA-Lab  
 **Correo principal outreach:** indioyori@fronteria-lab.com  
 **Correo infra RAG:** ragflow@fronteria-lab.com  
-**Rama de trabajo reciente:** `cursor/fichas-macs-ipa-senado-0bea`
+**Rama de trabajo reciente:** `cursor/keynote-certeza-sin-sustancia-0bea`
 
 ---
 
@@ -20,7 +20,7 @@
 | **ISD** | Métrica | En papers (Certeza / TEKTRON); **aún no** ficha/instrumento unificado |
 | TEKTRON | Infra | Documentado / producto lab |
 | Senado dic 2025 | Incidencia | Enviado; **carta de seguimiento** borrador lista |
-| Keynote “IA sin humo” | Entrada comercial | Idea clara; guion **pendiente** |
+| Keynote **Certeza sin sustancia** | Entrada comercial | **Guion v1.0 listo** (`keynotes/CERTEZA_SIN_SUSTANCIA_guion.md`) |
 
 **Fórmula:** teoría → manual → MCC (método) → MACS (auditoría) + IPA (protocolo) → ISD (medir) → TEKTRON (infra).
 
@@ -69,9 +69,11 @@
 10. [ ] Buscar correo/oficina del Sen. Rolando Rodrigo Zapata Bello y enviar seguimiento
 
 ### Comercial / contenido
-11. [ ] Guion keynote **“IA sin humo”** (60–90 min)
-12. [ ] One-pager SOW Express MACS / Express IPA (precio lista)
-13. [ ] Piloto MACS (puede ser corpus propio o aliado; Antonio/ClavijeroLab solo si él lo pide — no empujar venta)
+11. [x] Guion keynote **Certeza sin sustancia** (60–90 min) — v1.0
+12. [ ] Ensayar keynote en voz alta (1 vez) + armar 16 slides
+13. [ ] One-pager SOW Express MACS / Express IPA (precio lista)
+14. [ ] Piloto MACS (corpus propio o aliado; Antonio solo si él lo pide)
+15. [ ] Enviar oleada correos desde `indioyori@fronteria-lab.com`
 
 ---
 
@@ -81,6 +83,7 @@
 |---|---|
 | Bitácora | `ops/BITACORA.md` |
 | Base 15 correos | `ops/BASE_CORREOS_PRIMERA_OLEADA.csv` + `.md` |
+| Keynote | `keynotes/CERTEZA_SIN_SUSTANCIA_guion.md` |
 | MACS instrumento | `expediente-senado/fichas/MACS_INSTRUMENTO_v1.0.md` |
 | IPA instrumento | `expediente-senado/fichas/IPA_INSTRUMENTO_v1.0.md` |
 | Carta Senado | `expediente-senado/CARTA_SEGUIMIENTO_SENADO.md` |
@@ -106,7 +109,8 @@
 |---|---|---|
 | Antonio Becerra / ClavijeroLab | Correo recuperado; borrador de respuesta listo | Enviar; esperar qué forma de “contaminación” elige (1/2/3) |
 | Sen. Zapata Bello | PDF dic 2025 enviado; seguimiento redactado | Enviar carta + anexos |
-| Primera oleada (15) | Base creada | Completar mails faltantes → enviar |
+| Primera oleada (15) | Base creada | Completar mails → enviar desde indioyori@ |
+| Keynote | Guion listo | Ensayo + slides; ofrecer en correos como charla |
 
 ---
 
