@@ -59,7 +59,7 @@ Tres focos de evidencia (sin fusionar con IPA):
 3. Hallazgos con evidencia del material auditado.  
 4. Dictamen de **falla de mandato**.  
 5. Recomendaciones priorizadas (separando: resguardo de producción / instrucción / formación).  
-6. Anexo: rúbrica puntuada (en desarrollo), notas de método.
+6. Anexo: rúbrica puntuada (**MACS v1.0**, 16 ítems), notas de método.
 
 ## 7. Aplicación directa (puente Senado)
 
