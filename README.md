@@ -15,6 +15,10 @@ Ver **[expediente-senado/](./expediente-senado/)**: carta de seguimiento al Sen.
 - **[ops/BITACORA.md](./ops/BITACORA.md)** — dónde nos quedamos y pendientes  
 - **[ops/BASE_CORREOS_PRIMERA_OLEADA.csv](./ops/BASE_CORREOS_PRIMERA_OLEADA.csv)** — primeros 15 envíos
 
+## Keynote
+
+- **[Certeza sin sustancia](./keynotes/CERTEZA_SIN_SUSTANCIA_guion.md)** — guion 60–90 min (entrada comercial)
+
 ## Blog (borradores)
 
 1. [Soberanía declarada, soberanía operativa](./blog/01-soberania-declarada-vs-operativa.md)
