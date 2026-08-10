@@ -3,7 +3,7 @@
 **Nombre completo:** Marco de Auditoría Cognitiva Situada  
 **Sigla:** MACS  
 **Autoría:** Dolores Méndez Valdez / FronterIA-Lab  
-**Estado:** ficha operativa (reconstrucción a partir de protocolo aplicado y correspondencia)  
+**Estado:** ficha resumida. **Instrumento completo:** [`MACS_INSTRUMENTO_v1.0.md`](./MACS_INSTRUMENTO_v1.0.md) (rúbrica 16 ítems, escala 0–3, dictamen).  
 **Relación:** instrumento de *auditoría*. No sustituye al MCC ni al IPA.
 
 ---
